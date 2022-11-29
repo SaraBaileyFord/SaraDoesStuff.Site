@@ -1,0 +1,41 @@
+html
+{
+    padding: 5%;
+    background-color: rgb(255, 222, 160);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+}
+header
+{
+    border-radius: 100px;
+    margin-right: 23%;
+    margin-left: 23%;
+    text-align: center;
+    background-color: rgb(255, 200, 145);
+    color: rgb(255, 139, 57);
+    font-size: 75px;
+    font-weight: bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: orange;
+    margin-left: 10%;
+}
+#bio
+{
+    padding-inline: 10px;
+    border-radius: 10px;
+    color: darkred;
+    background-color:lightsalmon;
+    font-style: italic;
+}
+#goals
+{
+    padding-inline: 10px;
+    border-radius: 10px;
+    color: darkred;
+    background-color: lightsalmon;
+    font-style: italic;
+}
